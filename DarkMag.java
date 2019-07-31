@@ -1,5 +1,7 @@
 package dec_patt;
 
+//spell class
+
 import java.util.logging.Logger;
 
 public class DarkMag implements Spellie {

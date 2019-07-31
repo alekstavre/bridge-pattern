@@ -1,5 +1,7 @@
 package dec_patt;
 
+// weapon class
+
 import java.util.logging.Logger;
 
 public class Hammer implements Weppie {

@@ -1,5 +1,7 @@
 package dec_patt;
 
+//app class
+
 import java.util.logging.Logger;
 
 public class Main_app {

@@ -1,4 +1,5 @@
 package dec_patt;
+//weapon interface
 
 public interface Weppie {
 
