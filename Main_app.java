@@ -15,5 +15,11 @@ public class Main_app {
 		spellHam.swing();
 		spellHam.putback();
 
+		Spellie darkMag = new DarkMag();
+
+		darkMag.activate();
+		darkMag.useit();
+		darkMag.deactivate();
+
 	}
 }
